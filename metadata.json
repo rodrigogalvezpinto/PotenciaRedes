@@ -1,0 +1,6 @@
+{
+  "name": "PulsoRed Chile",
+  "description": "Plataforma chilena de servicios y amplificación de redes sociales con facturación local en CLP, verificación bancaria Tenpo y trazabilidad transparente de pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
